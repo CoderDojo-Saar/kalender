@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Mountains+of+Christmas');
+
+body {
+    font-family: "Open Sans", sans-serif;
+    /* Gute Schriftgröße auf Mobilgeräten */
+    font-size: 17px;
+}
+
 .advents-kalender {
     display: -webkit-box;
     display: -webkit-flex;
@@ -128,6 +136,7 @@
 
 .kalender-karte-beschr {
     text-align: center;
+    margin: 10px;
 }
 
 .uk-nav-default {
